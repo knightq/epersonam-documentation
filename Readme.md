@@ -1,7 +1,6 @@
 # [Documentazione ePersonam](https://codeship.com/documentation/) [ ![Codeship Status for codeship/documentation](https://codeship.com/projects/59a737f0-1648-0132-c4e7-72c6c37b1f6e/status)](https://codeship.com/projects/33837)
 
 [![Waffle.io Board](https://badge.waffle.io/codeship/documentation.svg?label=ready&title=Ready)](http://waffle.io/codeship/documentation)
-[![Dependency Status](https://gemnasium.com/codeship/documentation.svg)](https://gemnasium.com/codeship/documentation)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/codeship/documentation/blob/master/License.md)
 
 ## Getting Started
@@ -11,7 +10,7 @@
 Clone the repository, install needed gems and run Jekyll ;)
 
 ```bash
-git clone git@github.com:codeship/documentation.git
+git clone https://github.com/knightq/epersonam-documentation
 cd documentation
 bundle install
 bundle exec guard
@@ -21,7 +20,7 @@ You can then access the site at [http://localhost:4000](http://localhost:4000)
 
 ### Contributing
 
-1. [Fork it](https://github.com/codeship/documentation/fork)
+1. [Fork it](https://github.com/knightq/epersonam-documentation/fork)
 1. Create your feature branch (`git checkout -b my-new-feature`)
 1. Commit your changes (`git commit -am 'Add some feature'```)
 1. Push to the branch (`git push origin my-new-feature`)
