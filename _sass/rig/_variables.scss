@@ -101,9 +101,8 @@ $_cBlack:           #000000;
 $_cRed:             #FC594A;
 $_cGreen:           #60CC69;
 $_cBlue:            #5A95E5;
-$_cDarkblue:        #20334d;
+$_cOrange:          #EF7B0F;
 
-$_cDarkblue:        #101b27;
 $_cLightgrey:       #F3F6FB;
 $_cGrey:            #E2E5E9;
 $_cDarkgrey:        #58626D;
@@ -139,7 +138,7 @@ $cButtonPrimaryBgHover:   darken($cButtonPrimaryBg, 8%);
 
 // Code
 $cCode:             $_cWhite;
-$cCodeBg:           $_cDarkblue;
+$cCodeBg:           $_cOrange;
 
 // Blockquote
 $cBlockquote:       $_cDarkgrey;

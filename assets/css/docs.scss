@@ -12,12 +12,12 @@ $cImgBorder:        $_cWhite;
 
 $cPageHeaderBorder: rgba($_cWhite, .2);
 $cPageHeader:       $_cWhite;
-$cPageHeaderBg:     $_cDarkblue;
+$cPageHeaderBg:     $_cOrange;
 
 $cAsideBg:          #f3f6fb;
 
 $cFooter:           $_cWhite;
-$cFooterBg:         #101b27;
+$cFooterBg:         $_cDarkgrey;
 
 @import 'docs/nav';
 @import 'docs/header';

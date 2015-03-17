@@ -6,7 +6,7 @@
     {% case part %}
     {% when crumbs.last %}
     {% when "" %}
-      <a href="{{ site.baseurl }}/">Documentation</a>
+      <a href="{{ site.baseurl }}/">Documentazione</a>
     {% else %}
       {% capture previous %}{{ previous }}/{{ part }}{% endcapture %}
       {% if site.data.categories[part].title %}

@@ -1,5 +1,5 @@
 # Site settings
-url: https://www.codeship.com/documentation
+url: https://www.e-personam.com/documentation
 baseurl: /documentation
 permalink: /:categories/:title/
 tags_dir: tags

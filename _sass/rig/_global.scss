@@ -138,7 +138,7 @@ p {
 
 strong {
   font-weight: 700;
-  color: $_cDarkblue;
+  color: $_cOrange;
 }
 
 em {
@@ -185,7 +185,7 @@ ul, ol {
   line-height: 1.5rem;
   display: inline-block;
   font-size: .6em;
-  color: $_cDarkblue;
+  color: $_cOrange;
   position: absolute;
   transform: translate(-1.5rem,0.2rem);
 }
@@ -343,7 +343,7 @@ blockquote {
 .is-capitalized { text-transform: capitalize; }
 .is-uppercase { text-transform: uppercase; }
 .is-italic { font-style: italic; }
-.is-bold { font-weight: bold; color: $_cDarkblue;}
+.is-bold { font-weight: bold; color: $_cOrange;}
 
 .has-border-top { border-top: $vBorder;}
 .has-border-right { border-right: $vBorder;}
